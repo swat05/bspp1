@@ -1,0 +1,3 @@
+hello this is text file
+to get demo of cat command
+
